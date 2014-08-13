@@ -1,0 +1,11 @@
+Examples
+========
+
+- Start an IPython notebook with:
+
+        $ docker run -it -p 8888:8888 ipyhton-sci-app
+
+  and access the notebook at `http://localhost:8888`.
+  When using a Mac with `boot2docker`, access the notebook at:
+
+        $ echo $(boot2docker ip 2>/dev/null):8888

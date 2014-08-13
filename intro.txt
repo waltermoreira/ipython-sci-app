@@ -1,0 +1,4 @@
+Documentation
+=============
+
+IPython docs at: http://ipython.org/ipython-doc/stable/index.html
